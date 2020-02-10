@@ -1,8 +1,6 @@
-Hi
-How are you
+Hi,
 
-Hi
+Welcome to GITHUB
 
-How are you
 
 
